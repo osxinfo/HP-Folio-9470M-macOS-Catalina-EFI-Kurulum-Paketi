@@ -1,0 +1,35 @@
+# osxinfo-HP-Folio-9470M-macOS-Catalina-EFI-Kurulum-Paketi
+osxinfo/HP Folio 9470M macOS Catalina EFI Kurulum Paketi
+![GitHub Logo](/Images/c03654828.png)
+# Sistem bilgileri:
+* İşlemci: Core i5-3427U
+* Grafik: HD4000
+* RAM: 4 GB
+* Ses: IDT 92HD91BXX
+* Wi-Fi: Intel Centrino (değiştirildi: HP Broadcom BCM943224HMS)
+* Ethernet: Intel 82579LM
+* Ekran Çözünürlüğü: 1366 x 768
+# Çalışanlar (herşey)
+* HD4000
+* Air Mirror
+* Güç yönetimi
+* Pil göstergesi
+* Facetime, Kamera
+* Ekran parlaklığı
+* Night Shift
+* Klavye aydınlatma
+* Touchpad (iki parmak ile tanımlar çalışmakta)
+* Ses
+* Uyku
+* Ethernet
+* Siri
+* Wi-Fi: HP Broadcom BCM943224HMS
+* iMessage- Facetime, iCloud
+* SD Kart Okuyucu
+# Çalışmayan:
+* INtel Wi-Fi Card
+
+![GitHub Logo](/Images/Ekran%20Resmi%202019-12-11%2023.08.20.png)
+![GitHub Logo](/Images/Ekran%20Resmi%202019-12-11%2023.08.43.png)
+![GitHub Logo](/Images/Ekran%20Resmi%202019-12-11%2023.09.00.png)
+![GitHub Logo](/Images/Ekran%20Resmi%202019-12-11%2023.19.54.png)
