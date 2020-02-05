@@ -33,3 +33,6 @@ osxinfo/HP Folio 9470M macOS Catalina EFI Kurulum Paketi
 ![GitHub Logo](/Images/Ekran%20Resmi%202019-12-11%2023.08.43.png)
 ![GitHub Logo](/Images/Ekran%20Resmi%202019-12-11%2023.09.00.png)
 ![GitHub Logo](/Images/Ekran%20Resmi%202019-12-11%2023.19.54.png)
+
+Forum linki.
+[osxinfo](https://osxinfo.net/konu/basarili-kurulum-hp-elitebook-folio-9470m-macos-catalina.11561/)
