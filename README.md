@@ -27,7 +27,7 @@ osxinfo/HP Folio 9470M macOS Catalina EFI Kurulum Paketi
 * iMessage- Facetime, iCloud
 * SD Kart Okuyucu
 # Çalışmayan:
-* INtel Wi-Fi Card
+* INtel Wi-Fi Card (değiştirildi)
 
 ![GitHub Logo](/Images/Ekran%20Resmi%202019-12-11%2023.08.20.png)
 ![GitHub Logo](/Images/Ekran%20Resmi%202019-12-11%2023.08.43.png)
