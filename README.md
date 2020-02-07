@@ -1,6 +1,9 @@
 # HP EliteBook Folio 9470M macOS Catalina EFI Kurulum Paketi
 
-![GitHub Logo](/Images/c03654828.png)
+<p align="center">
+  <img width="460" height="300" src="https://osxinfo.net/eklentiler/c03654828-png.13515/">
+</p>
+
 # Sistem bilgileri:
 * İşlemci: Core i5-3427U
 * Grafik: HD4000
