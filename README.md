@@ -1,5 +1,5 @@
-# osxinfo-HP-Folio-9470M-macOS-Catalina-EFI-Kurulum-Paketi
-osxinfo/HP Folio 9470M macOS Catalina EFI Kurulum Paketi
+# HP EliteBook Folio 9470M macOS Catalina EFI Kurulum Paketi
+
 ![GitHub Logo](/Images/c03654828.png)
 # Sistem bilgileri:
 * İşlemci: Core i5-3427U
